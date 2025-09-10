@@ -1,0 +1,14 @@
+C:\Users\carol\source\repos\OperadoresL\OperadoresL\obj\Debug\net8.0\OperadoresL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\source\repos\OperadoresL\OperadoresL\obj\Debug\net8.0\OperadoresL.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\OperadoresL\OperadoresL\obj\Debug\net8.0\OperadoresL.AssemblyInfo.cs
+C:\Users\carol\source\repos\OperadoresL\OperadoresL\obj\Debug\net8.0\OperadoresL.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\OperadoresL\OperadoresL\bin\Debug\net8.0\OperadoresL.exe
+C:\Users\carol\source\repos\OperadoresL\OperadoresL\bin\Debug\net8.0\OperadoresL.deps.json
+C:\Users\carol\source\repos\OperadoresL\OperadoresL\bin\Debug\net8.0\OperadoresL.runtimeconfig.json
+C:\Users\carol\source\repos\OperadoresL\OperadoresL\bin\Debug\net8.0\OperadoresL.dll
+C:\Users\carol\source\repos\OperadoresL\OperadoresL\bin\Debug\net8.0\OperadoresL.pdb
+C:\Users\carol\source\repos\OperadoresL\OperadoresL\obj\Debug\net8.0\OperadoresL.dll
+C:\Users\carol\source\repos\OperadoresL\OperadoresL\obj\Debug\net8.0\refint\OperadoresL.dll
+C:\Users\carol\source\repos\OperadoresL\OperadoresL\obj\Debug\net8.0\OperadoresL.pdb
+C:\Users\carol\source\repos\OperadoresL\OperadoresL\obj\Debug\net8.0\OperadoresL.genruntimeconfig.cache
+C:\Users\carol\source\repos\OperadoresL\OperadoresL\obj\Debug\net8.0\ref\OperadoresL.dll

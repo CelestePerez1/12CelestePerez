@@ -1,0 +1,14 @@
+C:\Users\carol\source\repos\OperadorRe\OperadorRe\bin\Debug\net8.0\OperadorRe.exe
+C:\Users\carol\source\repos\OperadorRe\OperadorRe\bin\Debug\net8.0\OperadorRe.deps.json
+C:\Users\carol\source\repos\OperadorRe\OperadorRe\bin\Debug\net8.0\OperadorRe.runtimeconfig.json
+C:\Users\carol\source\repos\OperadorRe\OperadorRe\bin\Debug\net8.0\OperadorRe.dll
+C:\Users\carol\source\repos\OperadorRe\OperadorRe\bin\Debug\net8.0\OperadorRe.pdb
+C:\Users\carol\source\repos\OperadorRe\OperadorRe\obj\Debug\net8.0\OperadorRe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\source\repos\OperadorRe\OperadorRe\obj\Debug\net8.0\OperadorRe.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\OperadorRe\OperadorRe\obj\Debug\net8.0\OperadorRe.AssemblyInfo.cs
+C:\Users\carol\source\repos\OperadorRe\OperadorRe\obj\Debug\net8.0\OperadorRe.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\OperadorRe\OperadorRe\obj\Debug\net8.0\OperadorRe.dll
+C:\Users\carol\source\repos\OperadorRe\OperadorRe\obj\Debug\net8.0\refint\OperadorRe.dll
+C:\Users\carol\source\repos\OperadorRe\OperadorRe\obj\Debug\net8.0\OperadorRe.pdb
+C:\Users\carol\source\repos\OperadorRe\OperadorRe\obj\Debug\net8.0\OperadorRe.genruntimeconfig.cache
+C:\Users\carol\source\repos\OperadorRe\OperadorRe\obj\Debug\net8.0\ref\OperadorRe.dll
