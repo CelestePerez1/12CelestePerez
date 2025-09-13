@@ -1,0 +1,14 @@
+C:\Users\carol\source\repos\BucleWhile\BucleWhile\bin\Debug\net8.0\BucleWhile.exe
+C:\Users\carol\source\repos\BucleWhile\BucleWhile\bin\Debug\net8.0\BucleWhile.deps.json
+C:\Users\carol\source\repos\BucleWhile\BucleWhile\bin\Debug\net8.0\BucleWhile.runtimeconfig.json
+C:\Users\carol\source\repos\BucleWhile\BucleWhile\bin\Debug\net8.0\BucleWhile.dll
+C:\Users\carol\source\repos\BucleWhile\BucleWhile\bin\Debug\net8.0\BucleWhile.pdb
+C:\Users\carol\source\repos\BucleWhile\BucleWhile\obj\Debug\net8.0\BucleWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\source\repos\BucleWhile\BucleWhile\obj\Debug\net8.0\BucleWhile.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\BucleWhile\BucleWhile\obj\Debug\net8.0\BucleWhile.AssemblyInfo.cs
+C:\Users\carol\source\repos\BucleWhile\BucleWhile\obj\Debug\net8.0\BucleWhile.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\BucleWhile\BucleWhile\obj\Debug\net8.0\BucleWhile.dll
+C:\Users\carol\source\repos\BucleWhile\BucleWhile\obj\Debug\net8.0\refint\BucleWhile.dll
+C:\Users\carol\source\repos\BucleWhile\BucleWhile\obj\Debug\net8.0\BucleWhile.pdb
+C:\Users\carol\source\repos\BucleWhile\BucleWhile\obj\Debug\net8.0\BucleWhile.genruntimeconfig.cache
+C:\Users\carol\source\repos\BucleWhile\BucleWhile\obj\Debug\net8.0\ref\BucleWhile.dll
