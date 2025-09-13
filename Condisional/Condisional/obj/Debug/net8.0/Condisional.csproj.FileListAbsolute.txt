@@ -1,0 +1,14 @@
+C:\Users\carol\source\repos\Condisional\Condisional\bin\Debug\net8.0\Condisional.exe
+C:\Users\carol\source\repos\Condisional\Condisional\bin\Debug\net8.0\Condisional.deps.json
+C:\Users\carol\source\repos\Condisional\Condisional\bin\Debug\net8.0\Condisional.runtimeconfig.json
+C:\Users\carol\source\repos\Condisional\Condisional\bin\Debug\net8.0\Condisional.dll
+C:\Users\carol\source\repos\Condisional\Condisional\bin\Debug\net8.0\Condisional.pdb
+C:\Users\carol\source\repos\Condisional\Condisional\obj\Debug\net8.0\Condisional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\source\repos\Condisional\Condisional\obj\Debug\net8.0\Condisional.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\Condisional\Condisional\obj\Debug\net8.0\Condisional.AssemblyInfo.cs
+C:\Users\carol\source\repos\Condisional\Condisional\obj\Debug\net8.0\Condisional.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\Condisional\Condisional\obj\Debug\net8.0\Condisional.dll
+C:\Users\carol\source\repos\Condisional\Condisional\obj\Debug\net8.0\refint\Condisional.dll
+C:\Users\carol\source\repos\Condisional\Condisional\obj\Debug\net8.0\Condisional.pdb
+C:\Users\carol\source\repos\Condisional\Condisional\obj\Debug\net8.0\Condisional.genruntimeconfig.cache
+C:\Users\carol\source\repos\Condisional\Condisional\obj\Debug\net8.0\ref\Condisional.dll
