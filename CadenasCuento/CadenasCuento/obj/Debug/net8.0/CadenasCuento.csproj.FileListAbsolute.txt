@@ -1,0 +1,14 @@
+C:\Users\carol\source\repos\CadenasCuento\CadenasCuento\bin\Debug\net8.0\CadenasCuento.exe
+C:\Users\carol\source\repos\CadenasCuento\CadenasCuento\bin\Debug\net8.0\CadenasCuento.deps.json
+C:\Users\carol\source\repos\CadenasCuento\CadenasCuento\bin\Debug\net8.0\CadenasCuento.runtimeconfig.json
+C:\Users\carol\source\repos\CadenasCuento\CadenasCuento\bin\Debug\net8.0\CadenasCuento.dll
+C:\Users\carol\source\repos\CadenasCuento\CadenasCuento\bin\Debug\net8.0\CadenasCuento.pdb
+C:\Users\carol\source\repos\CadenasCuento\CadenasCuento\obj\Debug\net8.0\CadenasCuento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\source\repos\CadenasCuento\CadenasCuento\obj\Debug\net8.0\CadenasCuento.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\CadenasCuento\CadenasCuento\obj\Debug\net8.0\CadenasCuento.AssemblyInfo.cs
+C:\Users\carol\source\repos\CadenasCuento\CadenasCuento\obj\Debug\net8.0\CadenasCuento.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\CadenasCuento\CadenasCuento\obj\Debug\net8.0\CadenasCuento.dll
+C:\Users\carol\source\repos\CadenasCuento\CadenasCuento\obj\Debug\net8.0\refint\CadenasCuento.dll
+C:\Users\carol\source\repos\CadenasCuento\CadenasCuento\obj\Debug\net8.0\CadenasCuento.pdb
+C:\Users\carol\source\repos\CadenasCuento\CadenasCuento\obj\Debug\net8.0\CadenasCuento.genruntimeconfig.cache
+C:\Users\carol\source\repos\CadenasCuento\CadenasCuento\obj\Debug\net8.0\ref\CadenasCuento.dll
