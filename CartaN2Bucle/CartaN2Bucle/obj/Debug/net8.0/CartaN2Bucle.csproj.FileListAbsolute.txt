@@ -1,0 +1,14 @@
+C:\Users\carol\source\repos\CartaN2Bucle\CartaN2Bucle\bin\Debug\net8.0\CartaN2Bucle.exe
+C:\Users\carol\source\repos\CartaN2Bucle\CartaN2Bucle\bin\Debug\net8.0\CartaN2Bucle.deps.json
+C:\Users\carol\source\repos\CartaN2Bucle\CartaN2Bucle\bin\Debug\net8.0\CartaN2Bucle.runtimeconfig.json
+C:\Users\carol\source\repos\CartaN2Bucle\CartaN2Bucle\bin\Debug\net8.0\CartaN2Bucle.dll
+C:\Users\carol\source\repos\CartaN2Bucle\CartaN2Bucle\bin\Debug\net8.0\CartaN2Bucle.pdb
+C:\Users\carol\source\repos\CartaN2Bucle\CartaN2Bucle\obj\Debug\net8.0\CartaN2Bucle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\source\repos\CartaN2Bucle\CartaN2Bucle\obj\Debug\net8.0\CartaN2Bucle.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\CartaN2Bucle\CartaN2Bucle\obj\Debug\net8.0\CartaN2Bucle.AssemblyInfo.cs
+C:\Users\carol\source\repos\CartaN2Bucle\CartaN2Bucle\obj\Debug\net8.0\CartaN2Bucle.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\CartaN2Bucle\CartaN2Bucle\obj\Debug\net8.0\CartaN2Bucle.dll
+C:\Users\carol\source\repos\CartaN2Bucle\CartaN2Bucle\obj\Debug\net8.0\refint\CartaN2Bucle.dll
+C:\Users\carol\source\repos\CartaN2Bucle\CartaN2Bucle\obj\Debug\net8.0\CartaN2Bucle.pdb
+C:\Users\carol\source\repos\CartaN2Bucle\CartaN2Bucle\obj\Debug\net8.0\CartaN2Bucle.genruntimeconfig.cache
+C:\Users\carol\source\repos\CartaN2Bucle\CartaN2Bucle\obj\Debug\net8.0\ref\CartaN2Bucle.dll
