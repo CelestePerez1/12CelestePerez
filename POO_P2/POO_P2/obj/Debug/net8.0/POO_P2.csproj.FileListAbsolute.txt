@@ -1,0 +1,14 @@
+C:\Users\carol\source\repos\POO_P2\POO_P2\bin\Debug\net8.0\POO_P2.exe
+C:\Users\carol\source\repos\POO_P2\POO_P2\bin\Debug\net8.0\POO_P2.deps.json
+C:\Users\carol\source\repos\POO_P2\POO_P2\bin\Debug\net8.0\POO_P2.runtimeconfig.json
+C:\Users\carol\source\repos\POO_P2\POO_P2\bin\Debug\net8.0\POO_P2.dll
+C:\Users\carol\source\repos\POO_P2\POO_P2\bin\Debug\net8.0\POO_P2.pdb
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.AssemblyInfo.cs
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.dll
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\refint\POO_P2.dll
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.pdb
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\POO_P2.genruntimeconfig.cache
+C:\Users\carol\source\repos\POO_P2\POO_P2\obj\Debug\net8.0\ref\POO_P2.dll
