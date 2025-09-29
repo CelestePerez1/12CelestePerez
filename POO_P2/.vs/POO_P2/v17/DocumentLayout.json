@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\carol\\source\\repos\\POO_P2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{747207B8-3265-4C50-AEE9-DACA286F7B94}|POO_P2\\POO_P2.csproj|c:\\users\\carol\\source\\repos\\poo_p2\\poo_p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747207B8-3265-4C50-AEE9-DACA286F7B94}|POO_P2\\POO_P2.csproj|solutionrelative:poo_p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{747207B8-3265-4C50-AEE9-DACA286F7B94}|POO_P2\\POO_P2.csproj|c:\\users\\carol\\source\\repos\\poo_p2\\poo_p2\\models\\superheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{747207B8-3265-4C50-AEE9-DACA286F7B94}|POO_P2\\POO_P2.csproj|solutionrelative:poo_p2\\models\\superheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{747207B8-3265-4C50-AEE9-DACA286F7B94}|POO_P2\\POO_P2.csproj|c:\\users\\carol\\source\\repos\\poo_p2\\poo_p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{747207B8-3265-4C50-AEE9-DACA286F7B94}|POO_P2\\POO_P2.csproj|solutionrelative:poo_p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{747207B8-3265-4C50-AEE9-DACA286F7B94}|POO_P2\\POO_P2.csproj|c:\\users\\carol\\source\\repos\\poo_p2\\poo_p2\\imprimirinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747207B8-3265-4C50-AEE9-DACA286F7B94}|POO_P2\\POO_P2.csproj|solutionrelative:poo_p2\\imprimirinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747207B8-3265-4C50-AEE9-DACA286F7B94}|POO_P2\\POO_P2.csproj|c:\\users\\carol\\source\\repos\\poo_p2\\poo_p2\\interfaces\\isuperheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747207B8-3265-4C50-AEE9-DACA286F7B94}|POO_P2\\POO_P2.csproj|solutionrelative:poo_p2\\interfaces\\isuperheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747207B8-3265-4C50-AEE9-DACA286F7B94}|POO_P2\\POO_P2.csproj|c:\\users\\carol\\source\\repos\\poo_p2\\poo_p2\\models\\antiheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747207B8-3265-4C50-AEE9-DACA286F7B94}|POO_P2\\POO_P2.csproj|solutionrelative:poo_p2\\models\\antiheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747207B8-3265-4C50-AEE9-DACA286F7B94}|POO_P2\\POO_P2.csproj|c:\\users\\carol\\source\\repos\\poo_p2\\poo_p2\\models\\heroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747207B8-3265-4C50-AEE9-DACA286F7B94}|POO_P2\\POO_P2.csproj|solutionrelative:poo_p2\\models\\heroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{747207B8-3265-4C50-AEE9-DACA286F7B94}|POO_P2\\POO_P2.csproj|c:\\users\\carol\\source\\repos\\poo_p2\\poo_p2\\models\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,11 +34,11 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 100,
+      "VerticalTabListWidth": 112,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,6 +59,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ImprimirInfo.cs",
+              "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\POO_P2\\POO_P2\\ImprimirInfo.cs",
+              "RelativeDocumentMoniker": "POO_P2\\ImprimirInfo.cs",
+              "ToolTip": "C:\\Users\\carol\\source\\repos\\POO_P2\\POO_P2\\ImprimirInfo.cs",
+              "RelativeToolTip": "POO_P2\\ImprimirInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:58:46.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISuperHeroe.cs",
+              "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\POO_P2\\POO_P2\\Interfaces\\ISuperHeroe.cs",
+              "RelativeDocumentMoniker": "POO_P2\\Interfaces\\ISuperHeroe.cs",
+              "ToolTip": "C:\\Users\\carol\\source\\repos\\POO_P2\\POO_P2\\Interfaces\\ISuperHeroe.cs",
+              "RelativeToolTip": "POO_P2\\Interfaces\\ISuperHeroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:44:11.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Heroe.cs",
+              "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\POO_P2\\POO_P2\\Models\\Heroe.cs",
+              "RelativeDocumentMoniker": "POO_P2\\Models\\Heroe.cs",
+              "ToolTip": "C:\\Users\\carol\\source\\repos\\POO_P2\\POO_P2\\Models\\Heroe.cs",
+              "RelativeToolTip": "POO_P2\\Models\\Heroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:13:00.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AntiHeroe.cs",
+              "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\POO_P2\\POO_P2\\Models\\AntiHeroe.cs",
+              "RelativeDocumentMoniker": "POO_P2\\Models\\AntiHeroe.cs",
+              "ToolTip": "C:\\Users\\carol\\source\\repos\\POO_P2\\POO_P2\\Models\\AntiHeroe.cs",
+              "RelativeToolTip": "POO_P2\\Models\\AntiHeroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:57:01.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SuperPoder.cs",
               "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\POO_P2\\POO_P2\\Models\\SuperPoder.cs",
               "RelativeDocumentMoniker": "POO_P2\\Models\\SuperPoder.cs",
@@ -55,26 +123,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SuperHeroe.cs",
               "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\POO_P2\\POO_P2\\Models\\SuperHeroe.cs",
               "RelativeDocumentMoniker": "POO_P2\\Models\\SuperHeroe.cs",
               "ToolTip": "C:\\Users\\carol\\source\\repos\\POO_P2\\POO_P2\\Models\\SuperHeroe.cs",
               "RelativeToolTip": "POO_P2\\Models\\SuperHeroe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T18:01:47.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\POO_P2\\POO_P2\\Program.cs",
               "RelativeDocumentMoniker": "POO_P2\\Program.cs",
               "ToolTip": "C:\\Users\\carol\\source\\repos\\POO_P2\\POO_P2\\Program.cs",
               "RelativeToolTip": "POO_P2\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T17:10:43.013Z",
               "EditorCaption": ""

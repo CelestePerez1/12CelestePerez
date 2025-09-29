@@ -1,4 +1,5 @@
-﻿using System;
+﻿using POO_P2.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,11 +7,31 @@ using System.Threading.Tasks;
 
 namespace POO_P2.Models
 {
-    class SuperHeroe
+    class SuperHeroe : Heroe, ISuperHeroe
     {
-        public int id;
-        public string nombre;
-        public string identidadSecreta;
+        private string _nombre;
+        public int id { get; set;  } = 1;
+        public override string nombre
+        {
+            get
+            {
+                return _nombre;
+            }
+            set
+            {
+                _nombre = value.Trim();
+            } 
+        }
+
+        public string nombreIdentidadSecreta
+        {
+            get
+            {
+                return $"{nombre} ({identidadSecreta})";
+            }
+        }
+
+        public string identidadSecreta { get; set;  }
         public string ciudad;
         public List<SuperPoder> superPoderes;
         public bool PuedeVolar;
@@ -27,9 +48,19 @@ namespace POO_P2.Models
             StringBuilder sb = new StringBuilder();
             foreach (var item in superPoderes)
             {
-                sb.Append($"{nombre} esta usando el super poder {item.nombre} !!");
+                sb.Append($"{nombreIdentidadSecreta} esta usando el super poder {item.nombre} !! \n");
             }
             return sb.ToString();
+        }
+        public override string salvarelmundo()
+        {
+            return $"{nombreIdentidadSecreta} ha salvado el mundo";
+        }
+
+        public override string salvaerLaTierra()
+        {
+            //return base.salvaerLaTierra();
+            return $"{nombreIdentidadSecreta} ha salvado la tierra";
         }
     }
 
